@@ -1,0 +1,10 @@
+# Ignore data directory
+/data/*
+
+# Ignore results except for the training_logs.png
+/results/*
+!/results/training_logs.png
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
