@@ -17,7 +17,6 @@ To use the dataset:
 
    ```bash
    git clone https://github.com/rakeshutekar/Image-Segmentation-with-U-Netification.git
-   cd image-segmentation
 2. **Install Dependencies**
     ```bash
     pip install -r requirements.txt
