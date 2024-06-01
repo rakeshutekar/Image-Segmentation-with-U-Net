@@ -36,11 +36,13 @@ After training, you can evaluate the model:
 python evaluate.py
 
 ### Results:
-```
-5/5 ━━━━━━━━━━━━━━━━━━━━ 2s 449ms/step - accuracy: 0.9478 - loss: 0.0930
-Test Loss: 0.09798252582550049
-Test Accuracy: 0.9455899000167847
-5/5 ━━━━━━━━━━━━━━━━━━━━ 3s 514ms/step
-Mean IoU: 0.7401531363366687
-![output](https://github.com/rakeshutekar/Image-Segmentation-with-U-Net/assets/48244158/b18004a2-b77d-432c-ac15-ae1d181eebb7)
+      ```
+      5/5 ━━━━━━━━━━━━━━━━━━━━ 2s 449ms/step - accuracy: 0.9478 - loss: 0.0930
+      Test Loss: 0.09798252582550049
+      Test Accuracy: 0.9455899000167847
+      5/5 ━━━━━━━━━━━━━━━━━━━━ 3s 514ms/step
+      Mean IoU: 0.7401531363366687
+
+![output](https://github.com/rakeshutekar/Image-Segmentation-with-U-Net/assets/48244158/78842bcf-c638-4335-88b4-2e735e2f3948)
+
 
