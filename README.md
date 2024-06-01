@@ -13,29 +13,34 @@ To use the dataset:
 
 ## Setup
 
-### Clone the Repository
+1. **Clone the repository**
 
-  ```sh
-  git clone https://github.com/yourusername/image-segmentation.git
-  cd image-segmentation
-
-  pip install -r requirements.txt
-
+   ```bash
+   git clone https://github.com/rakeshutekar/Image-Segmentation-with-U-Netification.git
+   cd image-segmentation
+2. **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
 
 ### Running the Project
 
 Training the Model
 Navigate to the src directory and run the training script:
-cd src
-python train.py
+1. **Train**
+   ```
+       cd src
+       python train.py
 
-Evaluating the Model
+2. **Evaluating the Model**
 After training, you can evaluate the model:
 python evaluate.py
 
-Results:
+### Results:
+```
 5/5 ━━━━━━━━━━━━━━━━━━━━ 2s 449ms/step - accuracy: 0.9478 - loss: 0.0930
 Test Loss: 0.09798252582550049
 Test Accuracy: 0.9455899000167847
 5/5 ━━━━━━━━━━━━━━━━━━━━ 3s 514ms/step
 Mean IoU: 0.7401531363366687
+![output](https://github.com/rakeshutekar/Image-Segmentation-with-U-Net/assets/48244158/b18004a2-b77d-432c-ac15-ae1d181eebb7)
+
