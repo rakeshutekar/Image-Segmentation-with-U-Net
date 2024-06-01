@@ -28,15 +28,15 @@ Training the Model
 Navigate to the src directory and run the training script:
 1. **Train**
    ```
-       cd src
-       python train.py
+   cd src
+   python train.py
 
 2. **Evaluating the Model**
 After training, you can evaluate the model:
 python evaluate.py
 
 ### Results:
-      ```
+      
       5/5 ━━━━━━━━━━━━━━━━━━━━ 2s 449ms/step - accuracy: 0.9478 - loss: 0.0930
       Test Loss: 0.09798252582550049
       Test Accuracy: 0.9455899000167847
