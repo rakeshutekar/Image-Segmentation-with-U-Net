@@ -15,12 +15,12 @@ To use the dataset:
 
 ### Clone the Repository
 
-```sh
-git clone https://github.com/yourusername/image-segmentation.git
-cd image-segmentation
+  ```sh
+  git clone https://github.com/yourusername/image-segmentation.git
+  cd image-segmentation
 
-pip install -r requirements.txt
-'''
+  pip install -r requirements.txt
+
 
 ### Running the Project
 
